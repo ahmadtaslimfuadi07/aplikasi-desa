@@ -2,3 +2,4 @@ aplikasi desa
 - membuat aplikasi pengelolaan surat desa
 - membuat aplikasi keuangan desa
 - membuat aplikasi kependudukan desa
+- membuat aplikasi kegiatan desa
