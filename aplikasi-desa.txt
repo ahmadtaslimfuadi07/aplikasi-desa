@@ -1,5 +1,6 @@
 aplikasi desa
 - membuat aplikasi pengelolaan surat desa
+  *surat keterangan miskin belom berhsail
 - membuat aplikasi kependudukan desa
   kependudukan juga masih eroro
 - membuat aplikasi kegiatan desa
