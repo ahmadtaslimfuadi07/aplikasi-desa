@@ -1,6 +1,6 @@
 aplikasi desa
 - membuat aplikasi pengelolaan surat desa
 - membuat aplikasi kependudukan desa
+  kependudukan juga masih eroro
 - membuat aplikasi kegiatan desa
-- membuat aplikasi keuangan desa
 - membuat apa lagi yah
